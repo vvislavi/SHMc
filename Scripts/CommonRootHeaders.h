@@ -1,0 +1,22 @@
+#ifndef __COMMON_ROOT_HEADERS__
+#define __COMMON_ROOT_HEADERS__
+#include "TF1.h"
+#include "TMath.h"
+#include "TH3D.h"
+#include "TFile.h"
+#include "TGraphErrors.h"
+#include "TGraphAsymmErrors.h"
+#include "TMinuit.h"
+#include "TCanvas.h"
+#include "TList.h"
+#include "TH2D.h"
+#include "Colors.h"
+#include "TLine.h"
+#include "TStopwatch.h"
+#include "TString.h"
+#include "TLine.h"
+#include "TLatex.h"
+#include "TPRegexp.h"
+#include "TLegend.h"
+#include "TSystem.h"
+#endif
